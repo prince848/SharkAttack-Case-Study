@@ -25,4 +25,6 @@ The average shark attack victim is:
 - Lives in South Africa, Australia, or the US
 - Is surfing, swimming, or fishing
 
+These are some specific examples but if the company wants to see the distribution for a different location all they must do is click on a different location on the following
+google sheet file [Probability of a shark attck per month at a specific location](https://docs.google.com/spreadsheets/d/1iMG16n99fP-HJ9bOfDyxXg9TdrTcnU8aMio3eWB1Geo/edit?usp=sharing)
 
