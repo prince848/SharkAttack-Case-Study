@@ -14,4 +14,15 @@ the data to obtain species information when available.
 
 Finally, there is a fraction of information that is not reliable and only introduces noise. To handle this either I labeled these unreliable datapoints accordingly or dropped it
 to create a valuable and reliable dataset to visualize and analyze.
-The data cleaning and analysis part in python is uploaded above
+The data cleaning and analysis is done in colabs using Python and is uploaded above.
+The cleaned CSV data file containing the results of data cleaning work can be found here [SharkFinal](https://docs.google.com/spreadsheets/d/1ytCxojjigYY7uCxVjRAgMfmGrsOn0ePP5CxGJy8YhK4/edit?usp=sharing).
+
+
+## Data Analysis and Findings
+The average shark attack victim is:
+- Male
+- Is an average of 27 years old. Looking at standard deviation, ages 14 to 41 as also in the high risk category
+- Lives in South Africa, Australia, or the US
+- Is surfing, swimming, or fishing
+
+
