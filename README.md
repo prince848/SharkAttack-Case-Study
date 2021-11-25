@@ -5,7 +5,7 @@ https://www.sharkattackfile.net/incidentlog.htm
 Ocean temperatures were also explored with this dataset:
 http://app01.saeon.ac.za/sadcofunstuff/OceanTemperature.htm
 
-In this readme, I will provide a summary of the data cleaning process and the analysis performed. In the jupyter-notebooks in the folder named "your-code" it is listed step by step all the processes related to this project.
+In this readme, I will provide a summary of the data cleaning process and the analysis performed. In the jupyter-notebooks in the folderit is listed step by step all the processes related to this project.
 
 ## Data cleaning
 This dataset is very messy, but with only a few commands we can transform this file into a valuable dataset. I conducted this with a diverse set of tools in Python, as Pandas or
